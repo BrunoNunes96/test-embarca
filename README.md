@@ -1,6 +1,6 @@
-#Test Automation Suite — Embarca API
+#Test Automation Suite — Embarca
 
-Proposta de automação de testes E2E e integração para serviços da **Embarca**, focada na validação de endpoints REST, regras de negócio para reserva e emissão de passagens, e consistência de dados.
+Proposta de automação de testes E2E e integração para serviços da **Embarca**, focada na validação de front e endpoints REST, regras de negócio para reserva e emissão de passagens, envio de pacotes e consistência de dados.
 
 ---
 
