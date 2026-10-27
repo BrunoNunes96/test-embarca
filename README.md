@@ -21,8 +21,6 @@ Proposta de automação de testes E2E e integração para serviços da **Embarca
 
 - **Linguagem**: Node.js / JavaScript
 - **Framework de Testes**: [Cypress](https://www.cypress.io/) 
-- **BDD / Especificação**: Cucumber / Gherkin
-- **Relatórios**: Mochawesome / Allure Report
 - **CI/CD**: GitHub Actions
 
 ---
